@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+}
+
+.school {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+table {
+    border: 1px darkslateblue solid;
+}
+
+td {
+    border: 1px darkslateblue solid;
+}
+
+img {
+    margin: 3%;
+}
+
+h1 {
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+h2 {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: dimgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: aquamarine;
+}
